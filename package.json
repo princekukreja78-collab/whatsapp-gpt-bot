@@ -9,9 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "express": "^5.1.0",
     "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }
